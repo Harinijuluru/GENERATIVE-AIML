@@ -8,3 +8,5 @@ Assignment-4 : https://github.com/Harinijuluru/2303A52426-AIML/blob/main/Assignm
 
 Assignment 5.1 : https://github.com/Harinijuluru/2303A52426-AIML/blob/main/Ass_5_1.ipynb
 
+Assignment 5.2 : https://github.com/Harinijuluru/2303A52426-AIML/blob/main/Ass_5_2.ipynb
+
