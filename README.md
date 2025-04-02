@@ -18,3 +18,5 @@ Assignment-8.1 : https://github.com/Harinijuluru/2303A52426-AIML/blob/main/lab_8
 
 Assignment-9.1 : https://github.com/Harinijuluru/2303A52426-AIML/blob/main/lab_9_1.ipynb
 
+Assignment-10.1 : https://github.com/Harinijuluru/2303A52426-AIML/blob/main/lab_10.ipynb
+
